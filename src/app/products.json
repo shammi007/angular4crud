@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "trouser",
+      "color": "pink",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "hat",
+      "color": "blue"
+    },
+    {
+      "name": "test",
+      "color": "test",
+      "id": 6
+    },
+    {
+      "name": "cat",
+      "color": "white",
+      "id": 7
+    },
+    {
+      "name": "sunglasses",
+      "color": "black",
+      "id": 8
+    }
+  ]
+}
